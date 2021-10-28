@@ -6,4 +6,6 @@ todo list
 
 3. wake up
 
+4. git, gitgub to practice
+
 confirm to save and commit
