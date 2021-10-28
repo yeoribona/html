@@ -8,4 +8,6 @@ todo list
 
 4. git, gitgub to practice
 
+5. so hard T.T
+
 confirm to save and commit
